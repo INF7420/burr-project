@@ -1,6 +1,6 @@
 # My INF 7420 Project
 
-I am going to build a portfolio site. The main purpose of this project will be to showcase my school assignments and help me find a job after graduation. 
+I am going to build a portfolio website for my INF 7420 project. The main purpose of this project will be to showcase my school assignments and help me find a job after graduation. 
 
 ## Wireframes
 
