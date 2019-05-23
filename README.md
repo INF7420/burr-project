@@ -6,7 +6,9 @@ I am going to build a portfolio website for my INF 7420 project. The main purpos
 
 Here are some wireframes that show the layout of how the site will be constructed.
 
-![Wireframe of the Home Page](Wireframes/Wireframe 1.jpg)
+Home page:
+
+![Wireframe of the Home Page](Wireframes/Wireframe1.jpg)
 
 Header - will include name of the site and the navigation menu.
 
@@ -16,7 +18,9 @@ Main Content - will provide an explanation of the site and what the site offers.
 
 Footer - will contain copywrite information.
 
-![Wireframe of the About Page](Wireframes/Wireframe 2.jpg)
+About page:
+
+![Wireframe of the About Page](Wireframes/Wireframe2.jpg)
 
 Header - will include name of the site and the navigation menu.
 
@@ -26,7 +30,9 @@ Main Content - will include information about the site's author and contact info
 
 Footer - will contain copyright information.
 
-![Wireframe of the Works Page](Wireframes/Wireframe 3.jpg)
+Works page:
+
+![Wireframe of the Works Page](Wireframes/Wireframe3.jpg)
 
 Header - will include name of the site and the navigation menu.
 
