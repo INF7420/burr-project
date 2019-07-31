@@ -7,12 +7,14 @@
 body {
   background-color: rgb(251, 245, 251);
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h1, h2, h3 { color: #750f75;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
   text-align: center;
+  padding: 10px;
 }
 
 h1 {font-size: 48px;} 
@@ -28,35 +30,55 @@ padding: 20px;
 margin: 20px; 
 }
 
-ul {text-align: center;}
+ul {
+  text-align: center;
+  border-top: double;
+  border-bottom: double;
+  border-top-color: #750f75;
+  border-bottom-color: #750f75;
+  border-width: 5px;
+  padding: 10px;
+}
 
 #home{
 text-align: center;
+padding: 20px;
 }
 
 #about{
   text-align: center;
+  padding: 20px;
 }
 
 .paragraphs {
-  padding: 10px;
+  padding: 20px;
   margin: 10px;
+  font-size: 20x;
 }
 
 .box1 {
   float: left;
   width: 33.33%;
-  padding: 5px;}
+  padding: 20px;
+  text-align: center;
+  color: #750f75;
+}
 
 .box2 {
   float: left;
   width: 33.33%;
-  padding: 5px;}
+  padding: 20px;
+  text-align: center;
+  color: #750f75;
+}
 
 .box3 {
   float: left;
   width: 33.33%;
-  padding: 5px;}
+  padding: 20px;
+  text-align: center;
+  color: #750f75;
+}
 
   label {
     display: block;
